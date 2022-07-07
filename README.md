@@ -1,3 +1,3 @@
-# Kakao Clone 2020 Update
+# Kakao Clone 2022
 
-CSS got so much better!
+Sehyun's first clone coding project!
